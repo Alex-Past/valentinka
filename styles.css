@@ -12,7 +12,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
     position: relative;
 }
 
@@ -253,4 +252,5 @@ body {
     .decoration {
         font-size: 1.5rem;
     }
+
 }
